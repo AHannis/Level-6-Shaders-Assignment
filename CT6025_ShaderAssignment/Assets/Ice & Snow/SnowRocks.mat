@@ -57,9 +57,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Thickness: 3
+    - _Thickness: 2.12
     m_Colors:
-    - _Base: {r: 0.7058824, g: 0.70980394, b: 0.7490196, a: 0}
+    - _Base: {r: 0.13207549, g: 0.1302065, b: 0.1302065, a: 0}
     - _Snow: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
